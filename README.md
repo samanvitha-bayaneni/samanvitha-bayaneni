@@ -11,7 +11,7 @@ Right now, I'm a Data Science Instructor at Jovian. I lead live classes on <b>Py
 
 Besides coding, I'm a cinephilia 🎥 and melophile ✩ ♬ ₊.🎧⋆☾⋆⁺₊✧.
 
-<img align="right" alt="GIF" width = 500 height=300 src="https://media.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" />
+<img align="right" alt="GIF" width = 500 height=300 src="https://media.tenor.com/JJ_is357rXYAAAAC/spike-monkey-typing.gif" />
 
  - 📫 How to reach me: [samanvitha091197@gmail.com](mailto:abhishekmaira1999@gmail.com)
 
