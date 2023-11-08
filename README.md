@@ -9,7 +9,7 @@ I'm <b>Samanvitha</b>, a Data Science practitioner from India with <b>2.5 years 
 
 Right now, I'm a Data Science Instructor at Jovian. I lead live classes on <b>Python, SQL, Machine Learning, Data Analysis & Visualization, Statistics, A/B Testing, Tableau, Power BI</b> and enhance learning with YouTube [videos](https://www.youtube.com/playlist?list=PLyMom0n-MBrq-sa-kCYftEJulyrjczx70). I also conduct 1:1 support & mentorship calls, batch events, live workshops, contribute to <b>BI dashboards using MySQL</b> and mentored in Generative AI hack-a-thons. During my time at the university, I had the freedom to study the 'backend' of Data Science: <b>Calculus, Matrix Theory & Linear Algebra, Probability Theory & Distributions.</b> 
 
-Besides coding, I'm a cinephilia 🎥 and melophile ✩ ♬ ₊.🎧⋆☾⋆⁺₊✧.
+Besides coding, I'm a cinephile 🎥 and melophile ✩ ♬ ₊.🎧⋆☾⋆⁺₊✧.
 
 <img align="right" alt="GIF" width = 500 height=300 src="https://media.tenor.com/MYZgsN2TDJAAAAAC/this-is.gif" />
 
