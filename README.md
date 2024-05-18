@@ -13,7 +13,7 @@ Besides coding, I'm a cinephile 🎥 and melophile ✩ ♬ ₊.🎧⋆☾⋆⁺�
 
 <img align="right" alt="GIF" width = 500 height=300 src="https://media.tenor.com/MYZgsN2TDJAAAAAC/this-is.gif" />
 
- - 📫 How to reach me: [samanvitha091197@gmail.com](mailto:abhishekmaira1999@gmail.com)
+ - 📫 How to reach me: [samanvitha091197@gmail.com](samanvitha091197@gmail.com)
 
 
 **Languages:**
